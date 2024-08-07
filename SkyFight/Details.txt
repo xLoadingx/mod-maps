@@ -1,4 +1,0 @@
-Name: Sky Fight
-Author: UlvakSkillz
-Description: Invisible Box - Beware, the first Step is a Doozy
-Version: 1.0.1
