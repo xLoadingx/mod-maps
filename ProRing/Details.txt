@@ -1,4 +1,6 @@
 Name: Pro Ring
 Author: CRWND
-Description: It's Ring... But Pro! Cus like... looks clean.. idk :D\nRed Circle is Host Spawn, Blue Circle is Client Spawn.\nRed Line across main structure indicates Kill Floor, perfect to avoid those sneaky flight tactic deaths!
+Description: It's Ring... But Pro! Cus like... looks clean.. idk :D
+Red Circle is Host Spawn, Blue Circle is Client Spawn.
+Red Line across main structure indicates Kill Floor, perfect to avoid those sneaky flight tactic deaths!
 Version: 1.0.0
