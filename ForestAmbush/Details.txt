@@ -1,0 +1,4 @@
+Name: Forest Ambush
+Author: Gort
+Description: Fight inside of a wide forest arena. Trees offer cover and obstacles for the two fighters in this map.
+Version: 1.0.0
