@@ -1,0 +1,4 @@
+Name: Windy Ravine
+Author: Gort
+Description: Fight inside of a ravine. Essentially it is a mix between the Ring and Pit map. You can push your opponent back off the Arena or against the walls on either side.
+Version: 1.0.0
