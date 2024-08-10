@@ -1,4 +1,0 @@
-Name: Earth Rumble Arena
-Author: wolf
-Description: Not really super unique, but not super many maps with a rectangular arena with a small lip on the edges to prevent a walk off (but can still get hit off) color blind person tried to make a map from ATLA and forget they have issues with browns. the middle can make for some cool ungrounded disc plays tho if you want
-Version: 1.0.1
