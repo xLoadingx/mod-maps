@@ -82,6 +82,8 @@
     "MoonBending.dll": "MoonBending",
     "InGameClock.dll": "InGameClock",
     "GrassEnabler.dll": "GrassEnabler",
-    "MoveLimiter.dll": "MoveLimiter"
+    "MoveLimiter.dll": "MoveLimiter",
+    "MicToggle.dll": "MicToggle",
+    "BeltSkins.dll": "BeltSkins"
   }
 }
