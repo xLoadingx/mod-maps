@@ -1,0 +1,4 @@
+Name: Microwave
+Author: Hinsku
+Description: Made this map, cause a friend of mine likes Ultrakill. It's a slighly larger ring map, except you roleplay as a hot pocket.
+Version: 1.0.0
