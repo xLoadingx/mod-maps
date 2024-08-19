@@ -85,6 +85,8 @@
     "MoveLimiter.dll": "MoveLimiter",
     "MicToggle.dll": "MicToggle",
     "BeltSkins.dll": "BeltSkins",
-    "FastFistBumps.dll": "FastFistBumps"
+    "FastFistBumps.dll": "FastFistBumps",
+    "MatchmakingShortcut.dll": "MatchmakingShortcut",
+    "FlickRacingTimer.dll": "FlickRacingTimer"
   }
 }
