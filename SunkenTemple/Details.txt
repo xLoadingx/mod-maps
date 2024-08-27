@@ -1,4 +1,4 @@
 Name: Sunken Temple
 Author: Gort
 Description: A high danger map. There should be enough platforms here to not get immediately blasted off with volatile. Flowstone or being comfortable dash jumping are recommended. It feels like being in a Boss arena.
-Version: 1.0.0
+Version: 1.0.1
