@@ -1,0 +1,6 @@
+Name: Bridge Duel
+Author: CRWND
+Description: It's finally here, the most terrifying map in Rumble!
+
+Duel it out on the only crossing between bordering states available for thousands of miles, and a little advice... Don't look down
+Version: 1.0.0
