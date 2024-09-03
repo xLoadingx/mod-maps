@@ -1,0 +1,4 @@
+Name: The Antlion's Den
+Author: Hinsku
+Description: An enclosed CQC map. Base level only slightly larger than spawn distance. Encourages close range fights. The walls are sloped so you can do high combos behind your opponent. Structures will slide back down behind them for a trap. You can also disc jump into the sloped walls, but you cant summon on them. You will slowly slide back down. This give your opponent a punish opportunity.
+Version: 1.0.0
