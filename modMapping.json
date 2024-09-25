@@ -89,6 +89,8 @@
     "MatchmakingShortcut.dll": "MatchmakingShortcut",
     "FlickRacingTimer.dll": "FlickRacingTimer",
     "FashionableStructures.dll": "FashionableStructures",
-    "RumbleDarkMode.dll": "RumbleDarkMode"
+    "RumbleDarkMode.dll": "RumbleDarkMode",
+    "RumblePiShock.dll": "RumblePiShock",
+    "ThirdPersonHealthbar.dll": "ThirdPersonHealthbar"
   }
 }
