@@ -92,6 +92,7 @@
     "RumbleDarkMode.dll": "RumbleDarkMode",
     "RumblePiShock.dll": "RumblePiShock",
     "ThirdPersonHealthbar.dll": "ThirdPersonHealthbar",
-    "ArmSlider.dll": "ArmSlider"
+    "ArmSlider.dll": "ArmSlider",
+    "RumblePrecipitation.dll": "RumblePrecipitation"
   }
 }
