@@ -91,6 +91,7 @@
     "FashionableStructures.dll": "FashionableStructures",
     "RumbleDarkMode.dll": "RumbleDarkMode",
     "RumblePiShock.dll": "RumblePiShock",
-    "ThirdPersonHealthbar.dll": "ThirdPersonHealthbar"
+    "ThirdPersonHealthbar.dll": "ThirdPersonHealthbar",
+    "ArmSlider.dll": "ArmSlider"
   }
 }
