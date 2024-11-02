@@ -93,6 +93,8 @@
     "RumblePiShock.dll": "RumblePiShock",
     "ThirdPersonHealthbar.dll": "ThirdPersonHealthbar",
     "ArmSlider.dll": "ArmSlider",
-    "RumblePrecipitation.dll": "RumblePrecipitation"
+    "RumblePrecipitation.dll": "RumblePrecipitation",
+    "CloneBending.dll": "CloneBending",
+    "BetterFriendList.dll": "BetterFriendList"
   }
 }
