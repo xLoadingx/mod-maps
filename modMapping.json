@@ -95,6 +95,7 @@
     "ArmSlider.dll": "ArmSlider",
     "RumblePrecipitation.dll": "RumblePrecipitation",
     "CloneBending.dll": "CloneBending",
-    "BetterFriendList.dll": "BetterFriendList"
+    "BetterFriendList.dll": "BetterFriendList",
+    "ShaderLivFix.dll": "ShaderLivFix"
   }
 }
