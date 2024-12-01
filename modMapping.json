@@ -98,6 +98,9 @@
     "BetterFriendList.dll": "BetterFriendList",
     "ShaderLivFix.dll": "ShaderLivFix",
     "Park_dingdong.dll": "Quality of life improvements",
-    "BlindRumble.dll": "BlindRumble"
+    "BlindRumble.dll": "BlindRumble",
+    "CustomMapLib.dll": "CustomMapLib",
+    "RUMBLESpleef.dll": "RUMBLESpleef",
+    "ProBendingArena.dll": "ProBendingArena"
   }
 }
