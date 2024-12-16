@@ -103,6 +103,7 @@
     "RUMBLESpleef.dll": "RUMBLESpleef",
     "ProBendingArena.dll": "ProBendingArena",
     "Singularity.dll": "Singularity",
-    "VolcanicBattle.dll": "Volcanic Battle"
+    "VolcanicBattle.dll": "Volcanic Battle",
+    "ClientHostInfo.dll": "ClientHostInfo"
   }
 }
