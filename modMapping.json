@@ -105,6 +105,8 @@
     "Singularity.dll": "Singularity",
     "VolcanicBattle.dll": "Volcanic Battle",
     "ClientHostInfo.dll": "ClientHostInfo",
-    "DiscordRichPresence.dll": "DiscordRichPresence"
+    "DiscordRichPresence.dll": "DiscordRichPresence",
+    "ProgressTrackerOverview.dll": "ProgressTrackerOverview",
+    "RumbleStats.dll": "RumbleStats"
   }
 }
