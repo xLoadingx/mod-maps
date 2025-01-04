@@ -107,6 +107,7 @@
     "ClientHostInfo.dll": "ClientHostInfo",
     "DiscordRichPresence.dll": "DiscordRichPresence",
     "ProgressTrackerOverview.dll": "ProgressTrackerOverview",
-    "RumbleStats.dll": "RumbleStats"
+    "RumbleStats.dll": "RumbleStats",
+    "RailgunEffect.dll": "RailgunSonicBoom"
   }
 }
