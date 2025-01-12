@@ -108,6 +108,7 @@
     "DiscordRichPresence.dll": "DiscordRichPresence",
     "ProgressTrackerOverview.dll": "ProgressTrackerOverview",
     "RumbleStats.dll": "RumbleStats",
-    "RailgunEffect.dll": "RailgunSonicBoom"
+    "RailgunEffect.dll": "RailgunSonicBoom",
+    "MabelTheCat.dll": "MabelTheCat"
   }
 }
