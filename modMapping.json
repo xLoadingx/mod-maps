@@ -109,6 +109,8 @@
     "ProgressTrackerOverview.dll": "ProgressTrackerOverview",
     "RumbleStats.dll": "RumbleStats",
     "RailgunEffect.dll": "RailgunSonicBoom",
-    "MabelTheCat.dll": "MabelTheCat"
+    "MabelTheCat.dll": "MabelTheCat",
+    "Mirror.dll": "Mirror",
+    "NameBending.dll", "NameBending"
   }
 }
