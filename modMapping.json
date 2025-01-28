@@ -111,6 +111,8 @@
     "RailgunEffect.dll": "RailgunSonicBoom",
     "MabelTheCat.dll": "MabelTheCat",
     "Mirror.dll": "Mirror",
-    "NameBending.dll": "NameBending"
+    "NameBending.dll": "NameBending",
+    "Pole.dll": "Pole",
+    "ShiftstoneModels.dll": "CustomShiftstoneModels"
   }
 }
