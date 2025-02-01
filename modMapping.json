@@ -113,6 +113,7 @@
     "Mirror.dll": "Mirror",
     "NameBending.dll": "NameBending",
     "Pole.dll": "Pole",
-    "ShiftstoneModels.dll": "CustomShiftstoneModels"
+    "ShiftstoneModels.dll": "CustomShiftstoneModels",
+    "BossMusic.dll": "BossMusic"
   }
 }
