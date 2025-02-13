@@ -114,6 +114,7 @@
     "NameBending.dll": "NameBending",
     "Pole.dll": "Pole",
     "ShiftstoneModels.dll": "CustomShiftstoneModels",
-    "BossMusic.dll": "BossMusic"
+    "BossMusic.dll": "BossMusic",
+    "SketchbookPlus.dll": "SketchbookPlus"
   }
 }
