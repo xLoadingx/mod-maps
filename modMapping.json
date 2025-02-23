@@ -115,6 +115,7 @@
     "Pole.dll": "Pole",
     "ShiftstoneModels.dll": "CustomShiftstoneModels",
     "BossMusic.dll": "BossMusic",
-    "SketchbookPlus.dll": "SketchbookPlus"
+    "SketchbookPlus.dll": "SketchbookPlus",
+    "RumbleReplayMod.dll": "RumbleReplay"
   }
 }
