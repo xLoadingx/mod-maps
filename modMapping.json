@@ -116,6 +116,7 @@
     "ShifstoneModels.dll": "CustomShiftstoneModels",
     "BossMusic.dll": "BossMusic",
     "SketchbookPlus.dll": "SketchbookPlus",
-    "RumbleReplayMod.dll": "RumbleReplay"
+    "RumbleReplayMod.dll": "RumbleReplay",
+    "MatchStatusOverlay.dll": "MatchStatusOverlay"
   }
 }
