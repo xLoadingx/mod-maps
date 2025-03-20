@@ -117,6 +117,7 @@
     "BossMusic.dll": "BossMusic",
     "SketchbookPlus.dll": "SketchbookPlus",
     "RumbleReplayMod.dll": "RumbleReplay",
-    "MatchStatusOverlay.dll": "MatchStatusOverlay"
+    "MatchStatusOverlay.dll": "MatchStatusOverlay",
+    "VoidLand.dll": "VoidLand"
   }
 }
