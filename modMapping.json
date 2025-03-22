@@ -118,6 +118,7 @@
     "SketchbookPlus.dll": "SketchbookPlus",
     "RumbleReplayMod.dll": "RumbleReplay",
     "MatchStatusOverlay.dll": "MatchStatusOverlay",
-    "VoidLand.dll": "VoidLand"
+    "VoidLand.dll": "VoidLand",
+    "RegionMapUpgrade.dll": "RegionMapUpgrade"
   }
 }
