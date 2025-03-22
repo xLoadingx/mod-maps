@@ -120,5 +120,6 @@
     "MatchStatusOverlay.dll": "MatchStatusOverlay",
     "VoidLand.dll": "VoidLand",
     "RegionMapUpgrade.dll": "RegionMapUpgrade"
+    "RumbleHud.dll": "RumbleHud"
   }
 }
