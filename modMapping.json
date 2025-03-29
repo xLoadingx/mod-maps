@@ -121,6 +121,7 @@
     "VoidLand.dll": "VoidLand",
     "RegionMapUpgrade.dll": "RegionMapUpgrade",
     "RumbleHud.dll": "RumbleHud",
-    "OneHandedRumble.dll": "OneHandedRumble"
+    "OneHandedRumble.dll": "OneHandedRumble",
+    "MoreRanks.dll": "MoreRanks"
   }
 }
