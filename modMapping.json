@@ -122,6 +122,7 @@
     "RegionMapUpgrade.dll": "RegionMapUpgrade",
     "RumbleHud.dll": "RumbleHud",
     "OneHandedRumble.dll": "OneHandedRumble",
-    "MoreRanks.dll": "MoreRanks"
+    "MoreRanks.dll": "MoreRanks",
+    "RUMBLECherryBlossoms.dll": "RumbleTrees"
   }
 }
