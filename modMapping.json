@@ -124,6 +124,7 @@
     "OneHandedRumble.dll": "OneHandedRumble",
     "MoreRanks.dll": "MoreRanks",
     "RUMBLECherryBlossoms.dll": "RumbleTrees",
-    "HaroldHarryHarringtonTheFirst.dll": "HaroldHarryHarringtonTheFirst"
+    "HaroldHarryHarringtonTheFirst.dll": "HaroldHarryHarringtonTheFirst",
+    "TwitchChatInGame.dll": "TwitchChatInGame"
   }
 }
