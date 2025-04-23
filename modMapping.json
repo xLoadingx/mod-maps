@@ -125,6 +125,7 @@
     "MoreRanks.dll": "MoreRanks",
     "RUMBLECherryBlossoms.dll": "RumbleTrees",
     "HaroldHarryHarringtonTheFirst.dll": "HaroldHarryHarringtonTheFirst",
-    "TwitchChatInGame.dll": "TwitchChatInGame"
+    "TwitchChatInGame.dll": "TwitchChatInGame",
+    "RumbleModdingLibrary.dll": "RumbleModdingLibrary"
   }
 }
