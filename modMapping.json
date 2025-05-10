@@ -126,6 +126,10 @@
     "RUMBLECherryBlossoms.dll": "RumbleTrees",
     "HaroldHarryHarringtonTheFirst.dll": "HaroldHarryHarringtonTheFirst",
     "TwitchChatInGame.dll": "TwitchChatInGame",
-    "RumbleModdingLibrary.dll": "RumbleModdingLibrary"
+    "RumbleModdingLibrary.dll": "RumbleModdingLibrary",
+    "ScriptedLIVCam.dll": "ScriptedLIVCam",
+    "SpeedEffects.dll": "SpeedEffects",
+    "tournamentScoring.dll": "TournamentScoringMod",
+    "AttackOfTheHowards.dll": "AttackOfTheHowards"
   }
 }
