@@ -130,6 +130,7 @@
     "ScriptedLIVCam.dll": "ScriptedLIVCam",
     "SpeedEffects.dll": "SpeedEffects",
     "tournamentScoring.dll": "TournamentScoringMod",
-    "AttackOfTheHowards.dll": "AttackOfTheHowards"
+    "AttackOfTheHowards.dll": "AttackOfTheHowards",
+    "OffsetMod.dll": "OffsetMod"
   }
 }
