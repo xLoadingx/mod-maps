@@ -131,6 +131,8 @@
     "SpeedEffects.dll": "SpeedEffects",
     "tournamentScoring.dll": "TournamentScoringMod",
     "AttackOfTheHowards.dll": "AttackOfTheHowards",
-    "OffsetMod.dll": "OffsetMod"
+    "OffsetMod.dll": "OffsetMod",
+    "GoinGrabber.dll": "GoinGrabber",
+    "StoneMatchTracker.dll": "StoneMatchTracker"
   }
 }
