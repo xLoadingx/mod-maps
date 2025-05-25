@@ -134,6 +134,7 @@
     "OffsetMod.dll": "OffsetMod",
     "GoinGrabber.dll": "GoinGrabber",
     "StoneMatchTracker.dll": "StoneMatchTracker",
-    "TheWastes.dll": "TheWastes"
+    "TheWastes.dll": "TheWastes",
+    "Swash.dll": "Swash"
   }
 }
