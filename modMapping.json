@@ -135,6 +135,7 @@
     "GoinGrabber.dll": "GoinGrabber",
     "StoneMatchTracker.dll": "StoneMatchTracker",
     "TheWastes.dll": "TheWastes",
-    "Swash.dll": "Swash"
+    "Swash.dll": "Swash",
+    "Hairfix.dll": "HairFix"
   }
 }
