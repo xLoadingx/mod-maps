@@ -136,6 +136,7 @@
     "StoneMatchTracker.dll": "StoneMatchTracker",
     "TheWastes.dll": "TheWastes",
     "Swash.dll": "Swash",
-    "Hairfix.dll": "HairFix"
+    "Hairfix.dll": "HairFix",
+    "OBS_Control_API.dll": "OBS Control API"
   }
 }
