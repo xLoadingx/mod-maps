@@ -137,6 +137,7 @@
     "TheWastes.dll": "TheWastes",
     "Swash.dll": "Swash",
     "Hairfix.dll": "HairFix",
-    "OBS_Control_API.dll": "OBS Control API"
+    "OBS_Control_API.dll": "OBS Control API",
+    "ParkSettings.dll": "ParkSettings"
   }
 }
