@@ -138,6 +138,7 @@
     "Swash.dll": "Swash",
     "Hairfix.dll": "HairFix",
     "OBS_Control_API.dll": "OBS Control API",
-    "ParkSettings.dll": "ParkSettings"
+    "ParkSettings.dll": "ParkSettings",
+    "RankedRumble.dll": "RankedRumble"
   }
 }
