@@ -141,6 +141,7 @@
     "ParkSettings.dll": "ParkSettings",
     "RankedRumble.dll": "RankedRumble",
     "GoinDropper.dll": "GoinDropper",
-    "RumblePride.dll": "RumblePride"
+    "RumblePride.dll": "RumblePride",
+    "BPHider.dll": "BPHider"
   }
 }
