@@ -142,6 +142,7 @@
     "RankedRumble.dll": "RankedRumble",
     "GoinDropper.dll": "GoinDropper",
     "RumblePride.dll": "RumblePride",
-    "BPHider.dll": "BPHider"
+    "BPHider.dll": "BPHider",
+    "glTF_Exporter.dll": "glTF Exporter"
   }
 }
