@@ -143,6 +143,7 @@
     "GoinDropper.dll": "GoinDropper",
     "RumblePride.dll": "RumblePride",
     "BPHider.dll": "BPHider",
-    "glTF_Exporter.dll": "glTF Exporter"
+    "glTF_Exporter.dll": "glTF Exporter",
+    "InteractiveTutorials.dll": "InteractiveTutorials"
   }
 }
