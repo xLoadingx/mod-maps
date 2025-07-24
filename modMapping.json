@@ -146,6 +146,7 @@
     "glTF_Exporter.dll": "glTF Exporter",
     "InteractiveTutorials.dll": "InteractiveTutorials",
     "DieHarder.dll": "DieHarder",
-    "DiscClicker.dll": "DiscClicker"
+    "DiscClicker.dll": "DiscClicker",
+    "Borderless_Rocks.dll": "BorderlessRocks"
   }
 }
