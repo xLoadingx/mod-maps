@@ -148,6 +148,9 @@
     "DieHarder.dll": "DieHarder",
     "DiscClicker.dll": "DiscClicker",
     "Borderless_Rocks.dll": "BorderlessRocks",
-    "RumblePhotoAlbum.dll": "RumblePhotoAlbum"
+    "RumblePhotoAlbum.dll": "RumblePhotoAlbum",
+    "LegacyCamRollFix.dll": "LegacyCamRollFix",
+    "RecursiveRockCam.dll": "RecursiveRockCam",
+    "NoMoreTooltips.dll": "NoMoreTooltips"
   }
 }
