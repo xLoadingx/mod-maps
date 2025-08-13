@@ -151,6 +151,10 @@
     "RumblePhotoAlbum.dll": "RumblePhotoAlbum",
     "LegacyCamRollFix.dll": "LegacyCamRollFix",
     "RecursiveRockCam.dll": "RecursiveRockCam",
-    "NoMoreTooltips.dll": "NoMoreTooltips"
+    "NoMoreTooltips.dll": "NoMoreTooltips",
+    "ShiftStoneRandomizer.dll": "ShiftStoneRandomizer",
+    "AccessoryBending.dll": "AccessoryBending",
+    "RumbleModUIPlus.dll": "RumbleModUIPlus",
+    "Fontifier.dll": "Fontifier"
   }
 }
