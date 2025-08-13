@@ -155,6 +155,7 @@
     "ShiftStoneRandomizer.dll": "ShiftStoneRandomizer",
     "AccessoryBending.dll": "AccessoryBending",
     "RumbleModUIPlus.dll": "RumbleModUIPlus",
-    "Fontifier.dll": "Fontifier"
+    "Fontifier.dll": "Fontifier",
+    "LegacyCameraEnabler.dll": "LegacyCameraEnabler"
   }
 }
