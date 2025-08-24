@@ -157,6 +157,7 @@
     "RumbleModUIPlus.dll": "RumbleModUIPlus",
     "Fontifier.dll": "Fontifier",
     "LegacyCameraEnabler.dll": "LegacyCameraEnabler",
-    "GymCleaner2.dll": "Gym Cleaner 2"
+    "GymCleaner2.dll": "Gym Cleaner 2",
+    "UnityExplorerInputFixer": "UnityExplorerInputFixer"
   }
 }
