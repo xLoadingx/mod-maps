@@ -158,6 +158,7 @@
     "Fontifier.dll": "Fontifier",
     "LegacyCameraEnabler.dll": "LegacyCameraEnabler",
     "GymCleaner2.dll": "Gym Cleaner 2",
-    "UnityExplorerInputFixer": "UnityExplorerInputFixer"
+    "UnityExplorerInputFixer.dll": "UnityExplorerInputFixer",
+    "Rock Cam Essentials.dll": "RockCamEssentials"
   }
 }
