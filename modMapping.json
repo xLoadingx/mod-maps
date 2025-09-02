@@ -159,6 +159,7 @@
     "LegacyCameraEnabler.dll": "LegacyCameraEnabler",
     "GymCleaner2.dll": "Gym Cleaner 2",
     "UnityExplorerInputFixer.dll": "UnityExplorerInputFixer",
-    "Rock Cam Essentials.dll": "RockCamEssentials"
+    "Rock Cam Essentials.dll": "RockCamEssentials",
+    "ScreenRecordingVFXFix.dll": "ScreenRecordingVFXFix"
   }
 }
