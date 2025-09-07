@@ -161,6 +161,7 @@
     "UnityExplorerInputFixer.dll": "UnityExplorerInputFixer",
     "Rock Cam Essentials.dll": "RockCamEssentials",
     "ScreenRecordingVFXFix.dll": "ScreenRecordingVFXFix",
-    "CustomAvatars.dll": "CustomAvatars"
+    "CustomAvatars.dll": "CustomAvatars",
+    "AlternateHealthbars.dll": "AlternateHealthbars"
   }
 }
