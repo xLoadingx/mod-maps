@@ -162,6 +162,7 @@
     "Rock Cam Essentials.dll": "RockCamEssentials",
     "ScreenRecordingVFXFix.dll": "ScreenRecordingVFXFix",
     "CustomAvatars.dll": "CustomAvatars",
-    "AlternateHealthbars.dll": "AlternateHealthbars"
+    "AlternateHealthbars.dll": "AlternateHealthbars",
+    "TargetDiscChanceChanger.dll": "TargetDiscChanceChanger"
   }
 }
