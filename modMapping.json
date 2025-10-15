@@ -163,6 +163,7 @@
     "ScreenRecordingVFXFix.dll": "ScreenRecordingVFXFix",
     "CustomAvatars.dll": "CustomAvatars",
     "AlternateHealthbars.dll": "AlternateHealthbars",
-    "TargetDiscChanceChanger.dll": "TargetDiscChanceChanger"
+    "TargetDiscChanceChanger.dll": "TargetDiscChanceChanger",
+    "AdvancedStructureSkins.dll": "AdvancedStructureSkins"
   }
 }
