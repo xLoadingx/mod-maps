@@ -164,6 +164,7 @@
     "CustomAvatars.dll": "CustomAvatars",
     "AlternateHealthbars.dll": "AlternateHealthbars",
     "TargetDiscChanceChanger.dll": "TargetDiscChanceChanger",
-    "AdvancedStructureSkins.dll": "AdvancedStructureSkins"
+    "AdvancedStructureSkins.dll": "AdvancedStructureSkins",
+    "RockDrawing.dll": "RockDrawing"
   }
 }
