@@ -166,6 +166,7 @@
     "TargetDiscChanceChanger.dll": "TargetDiscChanceChanger",
     "AdvancedStructureSkins.dll": "AdvancedStructureSkins",
     "RockDrawing.dll": "RockDrawing",
-    "RockCamRecordingSettings.dll": "RockCamRecordingSettings"
+    "RockCamRecordingSettings.dll": "RockCamRecordingSettings",
+    "PokerTable.dll": "PokerTable"
   }
 }
