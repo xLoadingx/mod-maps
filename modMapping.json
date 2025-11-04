@@ -167,6 +167,7 @@
     "AdvancedStructureSkins.dll": "AdvancedStructureSkins",
     "RockDrawing.dll": "RockDrawing",
     "RockCamRecordingSettings.dll": "RockCamRecordingSettings",
-    "PokerTable.dll": "PokerTable"
+    "PokerTable.dll": "PokerTable",
+    "AutomaticInviter.dll": "AutomaticInviter"
   }
 }
