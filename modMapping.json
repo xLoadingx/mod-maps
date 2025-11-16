@@ -168,6 +168,7 @@
     "RockDrawing.dll": "RockDrawing",
     "RockCamRecordingSettings.dll": "RockCamRecordingSettings",
     "PokerTable.dll": "PokerTable",
-    "AutomaticInviter.dll": "AutomaticInviter"
+    "AutomaticInviter.dll": "AutomaticInviter",
+    "GamblingMod.dll": "GamblingMod"
   }
 }
