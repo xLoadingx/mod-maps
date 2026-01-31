@@ -175,6 +175,7 @@
     "_1080p.dll": "1080p",
     "RumbleGym++.dll": "GymExpanded",
     "PoseGhostCombos.dll": "PoseGhostCombos",
-    "PingVisualizer.dll": "PingVisualizer"
+    "PingVisualizer.dll": "PingVisualizer",
+    "StoneStickByNano.dll": "StoneStickByNano"
   }
 }
