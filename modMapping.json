@@ -176,6 +176,9 @@
     "RumbleGym++.dll": "GymExpanded",
     "PoseGhostCombos.dll": "PoseGhostCombos",
     "PingVisualizer.dll": "PingVisualizer",
-    "StoneStickByNano.dll": "StoneStickByNano"
+    "StoneStickByNano.dll": "StoneStickByNano",
+    "RumblePlayerOutlines.dll": "RumblePlayerOutlines",
+    "RumbleMediaControlBinds.dll": "RumbleMediaControls",
+    "ShiftedStones.dll": "ShiftedStones"
   }
 }
