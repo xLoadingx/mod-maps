@@ -179,6 +179,7 @@
     "StoneStickByNano.dll": "StoneStickByNano",
     "RumblePlayerOutlines.dll": "RumblePlayerOutlines",
     "RumbleMediaControlBinds.dll": "RumbleMediaControls",
-    "ShiftedStones.dll": "ShiftedStones"
+    "ShiftedStones.dll": "ShiftedStones",
+    "StreamerCam.dll": "StreamerCam"
   }
 }
